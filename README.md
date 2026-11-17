@@ -1,4 +1,4 @@
-# Hola, soy Oscar de la Cruz 👋
+# Hola, soy Oscar Ricardo  De  La Cruz De La Rosa 👋
 Estudiante de último cuatrimestre en el ITLA, enfocado en inteligencia artificial y datos.
 
 - 🔭 Trabajando en: Genetic_Dash
